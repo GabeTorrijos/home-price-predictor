@@ -6,7 +6,7 @@ A machine learning project that predicts residential home sale prices using the 
 
 | Model | RMSE | R² Score |
 |-------|------|----------|
-| Linear Regression | $88,386 | -0.45 |
+| Linear Regression | $29,292 | 0.84 |
 | Random Forest | $24,462 | 0.89 ⭐ |
 
 The Random Forest model predicts home prices within ~$24,000 on average with 89% accuracy.
